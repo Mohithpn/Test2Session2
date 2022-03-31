@@ -13,6 +13,7 @@ void find_distance(float x1,float y1,float x2, float y2,float *distance)
 }
 void output(float distance )
 {
+  
   printf("distance is %f",distance);
   
 }

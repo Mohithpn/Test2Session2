@@ -27,8 +27,7 @@
 	<br> int input();
 	<br> int find_fibo(int n);
 	<br> void output(int n, int fibo);
-
-<br> 5. Write a program to find all the prime numbers between erotosthenes sieve method.
+Write a program to find all the prime numbers between erotosthenes sieve method.
 	<br> int input_array_size();
 	<br> void init_array(int n, int a[n];
 	<br> void erotosthenes_sieve(int n, int a[n]);
@@ -36,6 +35,7 @@
 	<br> input:
 	<br> 100
 	<br> output:
+<br> 5. 
 	<br> 2,3,7,11,13,19,23,29,31,...
 
 	
